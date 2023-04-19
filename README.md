@@ -5,7 +5,8 @@ Analysis of Candycrush dataset from Kaggle
 - EDA the data set
 - Computing level difficulty
 - Plotting difficulty profile
-- Spotting hard levels
+- Success rate over time
+- Spotting hard levels: number of players by level
 - Computing uncertainty
 - Top earier and difficcult levels
     - Should our level designer worry?
@@ -16,9 +17,8 @@ Analysis of Candycrush dataset from Kaggle
 
 ![successRateOverTime](images/successRateOverTime.png)
 
-![confidenceInterval](images/confidenceInterval.png)
-
 ![nPlayersByLevel](images/nPlayersByLevel.png)
 
+![confidenceInterval](images/confidenceInterval.png)
 
 ![dau](images/dau.png)

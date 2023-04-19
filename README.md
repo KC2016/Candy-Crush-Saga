@@ -2,14 +2,14 @@
 Analysis of Candycrush dataset from Kaggle
 
 
-EDA the data set
-Computing level difficulty
-Plotting difficulty profile
-Spotting hard levels
-Computing uncertainty
-Top earier and difficcult levels
-    Should our level designer worry?
-Metric of users per day
+- EDA the data set
+- Computing level difficulty
+- Plotting difficulty profile
+- Spotting hard levels
+- Computing uncertainty
+- Top earier and difficcult levels
+    - Should our level designer worry?
+- Daily Active User Metric
 
 
 ![difficulty](images/difficulty.png)

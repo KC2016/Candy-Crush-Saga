@@ -55,3 +55,13 @@ The avg of players in weekends is  1223.0
 The avg of players in workdays is  489.2
 The pct of players in weekends over workdays is  2.5
 The average number of players in weekends is significantly higher than on workdays, with an average of 1223.0 players compared to 489.2 players, respectively. This suggests that weekends are a popular time for players to engage with the game and spend more time playing and this ie expected.
+
+### Notes:
+To analysis important metrics, it would be impressive to have a dataset with a longer period and have finaltial information. I cite some examples of metrics:
+- Aquisition: cost per install, cost per loyal user
+- Retention (daily sessions/ daily active users)
+- Referral: invite rate, cycle time, K-factor
+- Revenue: Conversion rate, average revenue per user, customer lifetime per user
+
+### Exploring metrics:
+- difficulty using ANOVA

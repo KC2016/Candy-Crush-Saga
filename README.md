@@ -21,7 +21,7 @@ Alternatively, if the difficulty of the 8th level is intended to be a deliberate
 
 Ultimately, the best approach will depend on the goals and objectives of the game and the preferences of your target audience. It may be helpful to gather feedback from players and conduct user testing to determine which approach is most effective in improving the overall difficulty balance of the game.
 
-### Sucess rate over time
+### Success rate over time
 ![successRateOverTime](images/successRateOverTime.png)
 To improve the success rate and overall consistency of the game, you may want to investigate why the success rate in level 6 is inconsistent. This could involve analyzing player behavior and performance on the level, identifying potential bugs or glitches, or adjusting the level design to better balance the difficulty.
 
@@ -49,7 +49,7 @@ You may also want to consider providing players with more opportunities to provi
 
 Overall, the best approach to improving the reliability and consistency of the levels will depend on the specific goals and objectives of the game and the preferences of your target audience. It may be helpful to conduct regular updates and adjustments to the game based on player feedback and performance data, as well as to analyze player behavior and performance on the different levels to identify potential areas for improvement.
 
-### DAU
+### DAU (daily active users)
 ![dau](images/dau.png)
 The avg of players in weekends is  1223.0
 The avg of players in workdays is  489.2

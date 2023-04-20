@@ -15,6 +15,7 @@ Analysis of Candycrush dataset from Kaggle
 
 ### Difficult by level
 ![difficulty](images/difficulty.png)
+
 To improve the difficulty balance of the game, you may want to consider adjusting the difficulty of the 8th level or the levels that come before it. If the difficulty of the 8th level is causing players to leave the game, you may want to consider making it slightly easier so that players are more likely to progress to the later levels.
 
 Alternatively, if the difficulty of the 8th level is intended to be a deliberate obstacle to challenge players and encourage them to spend more time playing the game, you may want to consider adjusting the difficulty of the earlier levels to better prepare players for the challenge of the 8th level. This could involve gradually increasing the difficulty of the levels leading up to the 8th level, or providing players with more opportunities to practice the skills needed to successfully complete the 8th level.
@@ -23,6 +24,7 @@ Ultimately, the best approach will depend on the goals and objectives of the gam
 
 ### Success rate over time
 ![successRateOverTime](images/successRateOverTime.png)
+
 To improve the success rate and overall consistency of the game, you may want to investigate why the success rate in level 6 is inconsistent. This could involve analyzing player behavior and performance on the level, identifying potential bugs or glitches, or adjusting the level design to better balance the difficulty.
 
 Additionally, it may be worth investigating the reasons behind the peak in success rate for level 10 on 2014-01-02. This could involve gathering more information about player behavior on that day, such as whether there was a promotion or event that encouraged more players to play the game or whether there was a change in the game design that made the level easier or more appealing to players.
@@ -41,6 +43,7 @@ Overall, the best approach to improving level balance in the game will depend on
 
 ### Confidence interval
 ![confidenceInterval](images/confidenceInterval.png)
+
 To improve the level reliability and consistency in the game, you may want to investigate why the uncertainty for level 11 is higher compared to the other levels. This could involve analyzing player behavior and performance on the level, identifying potential bugs or glitches, or adjusting the level design to better balance the difficulty and provide a more consistent experience for players.
 
 Additionally, to improve the reliability of the data for all levels, you may want to consider implementing a more robust data tracking system that captures more accurate and precise metrics for player behavior and performance. This can help to reduce the uncertainty and improve the overall reliability of the data, making it easier to analyze and make informed decisions about level design and game balance.
@@ -51,6 +54,7 @@ Overall, the best approach to improving the reliability and consistency of the l
 
 ### DAU (daily active users)
 ![dau](images/dau.png)
+
 The avg of players in weekends is  1223.0
 The avg of players in workdays is  489.2
 The pct of players in weekends over workdays is  2.5

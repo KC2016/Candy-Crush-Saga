@@ -18,9 +18,18 @@ Analysis of Candycrush dataset from Kaggle
 
 To improve the difficulty balance of the game, we may want to consider adjusting the difficulty of the 8th level or the levels that come before it. If the difficulty of the 8th level is causing players to leave the game, we may want to consider making it slightly easier so that players are more likely to progress to the later levels.
 
-Alternatively, if the difficulty of the 8th level is intended to be a deliberate obstacle to challenge players and encourage them to spend more time playing the game, we may want to consider adjusting the difficulty of the earlier levels to better prepare players for the challenge of the 8th level. This could involve gradually increasing the difficulty of the levels leading up to the 8th level, or providing players with more opportunities to practice the skills needed to successfully complete the 8th level.
+Alternatively, if the difficulty of the 8th level is intended to be a deliberate obstacle to challenge players and encourage them to spend more time playing the game. We may want to consider adjusting the difficulty of the earlier levels to better prepare players for the challenge of the 8th level. This could involve gradually increasing the difficulty of the levels leading up to the 8th level, or providing players with more opportunities to practice the skills needed to successfully complete the 8th level.
 
 Ultimately, the best approach will depend on the goals and objectives of the game and the preferences of its target audience. It may be helpful to gather feedback from players and conduct user testing to determine which approach is most effective in improving the overall difficulty balance of the game.
+
+
+### Probability of users win the levels
+![DifficultLevel](images/DifficultLevel.png)
+
+The probability of completing the episode without losing a single time is 9.447140934486e-12. The graph of the probability rate of users winning each level doesn't show a sense of progression and achievement for the players after level 5. Levels 6 and 13 seem too easy, while levels 8, 5 and 12 seem too hard to overcome.
+
+So I would talk to marketing and other teams to understand if this is on purpose and why.
+
 
 ### Success rate over time
 ![successRateOverTime](images/successRateOverTime.png)

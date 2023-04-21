@@ -5,6 +5,7 @@
 venv
 .venv
 .vscode
+env_candycrush/
 
 # folder
 temp/

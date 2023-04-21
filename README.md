@@ -23,14 +23,6 @@ Alternatively, if the difficulty of the 8th level is intended to be a deliberate
 Ultimately, the best approach will depend on the goals and objectives of the game and the preferences of its target audience. It may be helpful to gather feedback from players and conduct user testing to determine which approach is most effective in improving the overall difficulty balance of the game.
 
 
-### Probability of users win the levels
-![DifficultLevel](images/DifficultLevel.png)
-
-The probability of completing the episode without losing a single time is 9.447140934486e-12. The graph of the probability rate of users winning each level doesn't show a sense of progression and achievement for the players after level 5. Levels 6 and 13 seem too easy, while levels 8, 5 and 12 seem too hard to overcome.
-
-So I would talk to marketing and other teams to understand if this is on purpose and why.
-
-
 ### Success rate over time
 ![successRateOverTime](images/successRateOverTime.png)
 
@@ -51,7 +43,7 @@ Additionally, we may want to consider providing players with more incentives to 
 
 Overall, the best approach to improving level balance in the game will depend on the specific goals and objectives of the game and the preferences of your target audience. It may be helpful to gather feedback from players and conduct user testing to determine which approach is most effective in improving the overall balance and engagement of the game.
 
-### Confidence interval
+### Number of attempts per level
 ![confidenceInterval](images/confidenceInterval.png)
 
 To improve the level reliability and consistency in the game, we may want to investigate why the uncertainty for level 11 is higher compared to the other levels. This could involve analyzing player behavior and performance on the level, identifying potential bugs or glitches, or adjusting the level design to better balance the difficulty and provide a more consistent experience for players.
@@ -62,6 +54,13 @@ We may also want to consider providing players with more opportunities to provid
 
 Overall, the best approach to improving the reliability and consistency of the levels will depend on the specific goals and objectives of the game and the preferences of its target audience. It may be helpful to conduct regular updates and adjustments to the game based on player feedback and performance data, as well as to analyze player behavior and performance on the different levels to identify potential areas for improvement.
 
+### Probability of users win the levels
+![DifficultLevel](images/DifficultLevel.png)
+
+The probability of completing the episode without losing a single time is 9.447140934486e-12. The graph of the probability rate of users winning each level doesn't show a sense of progression and achievement for the players after level 5. Levels 6 and 13 seem too easy, while levels 8, 5 and 12 seem too hard to overcome.
+
+So I would talk to marketing and other teams to understand if this is on purpose and why.
+
 ### DAU (daily active users)
 ![dau](images/dau.png)
 
@@ -70,6 +69,11 @@ Overall, the best approach to improving the reliability and consistency of the l
 - The pct of players in weekends over workdays is  2.5
 
 The average number of players in weekends is significantly higher than on workdays, with an average of 1223.0 players compared to 489.2 players, respectively. This suggests that weekends are a popular time for players to engage with the game and spend more time playing and this ie expected.
+
+## Retention
+This dataset is too short to give proper feedback about retention. But I did a brief exploratory analysis.
+Analysing the number of days played, in this dataset with a period of 7 days, I found 5103 players who played one day, 1710 players who played two days and 1 player who played three days.
+Unfortunately, it is not enough to conclude.
 
 ### Notes:
 To analysis important metrics, it would be impressive to have a dataset with a longer period and have finaltial information. I cite some examples of metrics:

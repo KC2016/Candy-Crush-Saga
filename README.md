@@ -64,11 +64,14 @@ The probability of completing the episode without losing a single time is 9.4471
 So I would talk to marketing and other teams to understand if this is on purpose and why.
 
 ### DAU (daily active users)
+![dau](images/dau_graph1.png)
+- The total avg of players in weekends is 1218.
+
 ![dau](images/dau.png)
 
-- The avg of players in weekends is  1223.0
-- The avg of players in workdays is  489.2
-- The pct of players in weekends over workdays is  2.5
+- The avg of players in weekends is 1223.0
+- The avg of players in workdays is 489.2
+- The pct of players in weekends over workdays is 2.5
 
 The average number of players in weekends is significantly higher than on workdays, with an average of 1223.0 players compared to 489.2 players, respectively. This suggests that weekends are a popular time for players to engage with the game and spend more time playing and this ie expected.
 

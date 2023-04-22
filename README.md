@@ -1,6 +1,8 @@
 # Candy Crush Saga [WIP]
 Analysis of Candycrush dataset from Kaggle
 
+![CandyCrush](images/candyCrushSaga.jpeg)
+
 ### Guidelines
 - EDA the data set
 - Computing level difficulty

@@ -1,7 +1,24 @@
 # Candy Crush Saga [WIP]
-Analysis of Candycrush dataset from Kaggle
+Analysis of the [Candy Crush Saga dataset](https://www.kaggle.com/datasets/kingabzpro/candy-crush)
+
 
 ![CandyCrush](images/candyCrushSaga.jpeg)
+
+
+Columns:
+
+`player_id`: player identificatior
+
+`dt`: date
+
+`level`: Diciculty level -> Game's level. It doesn't match the difficulty
+
+`num_attempts`: number of attempts
+
+`num_success`: passing the level
+
+
+This report aims to evaluate the Daily Active Users (DAU) and Level Completion Rate (LCR) metrics and provide insights into the difficulty and success of players in passing levels. The evaluation of DAU and LCR metrics will be conducted by clearly defining the metrics and segmenting the data by different user characteristics. Furthermore, we will explore additional metrics such as time spent on each level, number of attempts to pass a level, and usage of power-ups to gain a better understanding of user behavior and the challenges they face. The findings from this analysis will be used to inform strategies to improve user engagement and level completion rates.
 
 
 ### Daily active users (DAU)
@@ -18,7 +35,7 @@ DAU is given by the number of unique users who play the game each day. This metr
 
 The average number of players in weekends is significantly higher than on workdays, with an average of 1223.0 players compared to 489.2 players, respectively. This suggests that weekends are a popular time for players to engage with the game and spend more time playing and this ie expected.
 
-### Level completion rate
+### Level completion rate (LCR)
 The level completion rate id given by the percentage of players who successfully complete each level of the game. This metric can help to measure the difficulty of the game and identify levels that may need to be adjusted to improve the player experience.
 
 ![nPlayersByLevel](images/nPlayersByLevel.png)
@@ -44,7 +61,6 @@ Additionally, to improve the reliability of the data for all levels, we may want
 We may also want to consider providing players with more opportunities to provide feedback and suggestions for improvement. This can help to identify areas where players are experiencing difficulty or frustration and provide valuable insights for improving the overall game experience.
 
 Overall, the best approach to improving the reliability and consistency of the levels will depend on the specific goals and objectives of the game and the preferences of its target audience. It may be helpful to conduct regular updates and adjustments to the game based on player feedback and performance data, as well as to analyze player behavior and performance on the different levels to identify potential areas for improvement.
-
 
 
 ### Success rate over time
@@ -73,14 +89,6 @@ To improve the difficulty balance of the game, we may want to consider adjusting
 Alternatively, if the difficulty of the 8th level is intended to be a deliberate obstacle to challenge players and encourage them to spend more time playing the game. We may want to consider adjusting the difficulty of the earlier levels to better prepare players for the challenge of the 8th level. This could involve gradually increasing the difficulty of the levels leading up to the 8th level, or providing players with more opportunities to practice the skills needed to successfully complete the 8th level.
 
 Ultimately, the best approach will depend on the goals and objectives of the game and the preferences of its target audience. It may be helpful to gather feedback from players and conduct user testing to determine which approach is most effective in improving the overall difficulty balance of the game.
-
-
-
-
-
-
-
-
 
 ## Retention
 This dataset is too short to give proper feedback about retention. But I did a brief exploratory analysis.

@@ -10,6 +10,7 @@ env_candycrush/
 # folder
 temp/
 sandbox/
+.ipynb_checkpoints/
 
 # MicrosoftOffice.gitignore
 *.tmp

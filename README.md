@@ -21,6 +21,8 @@ Columns:
 This report aims to evaluate the Daily Active Users (DAU) and Level Completion Rate (LCR) metrics and provide insights into the difficulty and success of players in passing levels. The evaluation of DAU and LCR metrics will be conducted by clearly defining the metrics and segmenting the data by different user characteristics. Furthermore, we will explore additional metrics such as time spent on each level, number of attempts to pass a level, and usage of power-ups to gain a better understanding of user behavior and the challenges they face. The findings from this analysis will be used to inform strategies to improve user engagement and level completion rates.
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/karina.condeixa/viz/CandyCrush1/Dashboard1?publish=yes)
+![Dashboard1](images/dashboard1.png)
+![Dashboard2](images/dashboard2.png)
 
 ### Daily active users (DAU)
 DAU is given by the number of unique users who play the game each day. This metric measures the number of unique users who engage with a game on a daily basis. It is used to track the popularity of a game and to monitor changes in user engagement over time.

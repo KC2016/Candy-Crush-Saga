@@ -1,4 +1,11 @@
 # Candy Crush Saga [WIP]
+
+[TODOs]
+- Add introduction
+- Do a Power Analysis
+- Do a test of significance
+
+
 Analysis of the [Candy Crush Saga dataset](https://www.kaggle.com/datasets/kingabzpro/candy-crush)
 
 

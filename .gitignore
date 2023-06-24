@@ -11,6 +11,8 @@ env_candycrush/
 temp/
 sandbox/
 .ipynb_checkpoints/
+data/
+env_candycrush
 
 # MicrosoftOffice.gitignore
 *.tmp
